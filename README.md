@@ -3,3 +3,10 @@
 
 [<img src='https://assets.zabbix.com/img/brands/nodejs.svg' alt='nestjs' height='52'>](https://nodejs.org/en/)
 [<img src='https://angular.io/assets/images/logos/angular/angular.svg' alt='angular' height='52'>](https://angular.io) 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on any open source project
+
+
+![Profile views](https://gpvc.arturio.dev/saeidi-dev) 
