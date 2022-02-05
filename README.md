@@ -1,6 +1,18 @@
 ### Hi there 👋
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/saeidi-dev) 
 
+## You can reach me at
+<a href="www.linkedin.com/in/saeidi-dev" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a>
+<a href="https://twitter.com/saeidi-dev" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+</a>
+<a href="mailto:saeidi.dev@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height='48' />
+</a>
+
+## ⌨️ &nbsp;Tech Stack
 [<img src='https://angular.io/assets/images/logos/angular/angular.svg' alt='angular' height='52'>](https://angular.io) 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='52'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='typescript' height='52'>](https://www.typescriptlang.org/) 
