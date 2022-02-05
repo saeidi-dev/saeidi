@@ -1,5 +1,4 @@
 ### Hi there 👋
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/saeidi-dev) 
 
 ## You can reach me at
 <a href="www.linkedin.com/in/saeidi-dev" target="_blank">
@@ -9,8 +8,9 @@
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="mailto:saeidi.dev@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height='48' />
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
+
 
 ## ⌨️ &nbsp;Tech Stack
 [<img src='https://angular.io/assets/images/logos/angular/angular.svg' alt='angular' height='52'>](https://angular.io) 
